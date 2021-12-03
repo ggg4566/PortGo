@@ -14,3 +14,11 @@
  
 ![](2.png)
  
+
+## web finder:
+
+![](33.png)
+
+## ping 
+
+![](4.png)
